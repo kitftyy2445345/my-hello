@@ -1,1 +1,1 @@
-ff
+วิธีรัน: python hello.py
